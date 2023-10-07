@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,slack.com
+  - DOMAIN-SUFFIX,happymh.com
+  - DOMAIN-SUFFIX,arin.net
+  - DOMAIN-SUFFIX,bitkan.com
