@@ -1,2 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,ocsp.pki.goog
   - DOMAIN-SUFFIX,cloud.cupronickel.goog
+  - DOMAIN,phosphor-pa.googleapis.com
+  - DOMAIN,scone-pa.googleapis.com
