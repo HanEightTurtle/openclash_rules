@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,happymh.com
   - DOMAIN-SUFFIX,arin.net
   - DOMAIN-SUFFIX,bitkan.com
+  - DOMAIN-SUFFIX,uscardforum.com

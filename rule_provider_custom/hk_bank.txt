@@ -1,4 +1,0 @@
-payload:
-  # zabank
-  - DOMAIN-SUFFIX,zaticdn.com
-  - DOMAIN-SUFFIX,za.group
