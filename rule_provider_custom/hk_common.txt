@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,bakamh.com
   - DOMAIN-SUFFIX,roum2.xyz
   - DOMAIN-SUFFIX,picacomic.com
+  - DOMAIN-SUFFIX,shuzijumin.com
