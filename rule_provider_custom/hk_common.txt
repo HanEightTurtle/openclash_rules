@@ -6,3 +6,6 @@ payload:
   - DOMAIN-SUFFIX,roum2.xyz
   - DOMAIN-SUFFIX,picacomic.com
   - DOMAIN-SUFFIX,shuzijumin.com
+  - DOMAIN-SUFFIX,imitui.com
+  - DOMAIN-SUFFIX,didamanhua.com
+  - DOMAIN-SUFFIX,manhuadb.com
