@@ -2,7 +2,6 @@ payload:
   - DOMAIN-SUFFIX,6mh67.com
   - DOMAIN-SUFFIX,sixmanhua.com
   - DOMAIN-SUFFIX,baozimh.com
-  - DOMAIN-SUFFIX,bakamh.com
   - DOMAIN-SUFFIX,roum2.xyz
   - DOMAIN-SUFFIX,picacomic.com
   - DOMAIN-SUFFIX,shuzijumin.com
