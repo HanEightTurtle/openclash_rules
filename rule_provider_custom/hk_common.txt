@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,imitui.com
   - DOMAIN-SUFFIX,didamanhua.com
   - DOMAIN-SUFFIX,manhuadb.com
+  - DOMAIN-SUFFIX,bakamh.com
