@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,ocsp.pki.goog
   - DOMAIN-SUFFIX,cloud.cupronickel.goog
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,g-tun.com
+  - DOMAIN-KEYWORD,googleapis
+  - DOMAIN-KEYWORD,g-tun
