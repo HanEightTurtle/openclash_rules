@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,manhuadb.com
   - DOMAIN-SUFFIX,bakamh.com
   - DOMAIN-SUFFIX,czmanga.com
+  - DOMAIN-SUFFIX,fzmanga.com
