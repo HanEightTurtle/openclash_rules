@@ -9,4 +9,3 @@ payload:
   - DOMAIN-SUFFIX,didamanhua.com
   - DOMAIN-SUFFIX,manhuadb.com
   - DOMAIN-SUFFIX,bakamh.com
-
