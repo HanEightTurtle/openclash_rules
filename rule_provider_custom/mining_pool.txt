@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,rplant.xyz
   - DOMAIN-SUFFIX,herominers.com
   - DOMAIN-SUFFIX,xeggex.com
+  - DOMAIN-SUFFIX,zergpool.com
