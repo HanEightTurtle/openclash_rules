@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-KEYWORD,textnow
+  - DOMAIN-SUFFIX,interactivebrokers.com
