@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,gnews.org
   - DOMAIN-SUFFIX,blogspot.com
   - DOMAIN-SUFFIX,newhongqi.org
+  - DOMAIN-SUFFIX,icij.org
