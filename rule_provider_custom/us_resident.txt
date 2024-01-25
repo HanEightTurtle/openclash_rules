@@ -1,5 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,textnow
-  - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,lbkrs.com
   - DOMAIN-SUFFIX,interactivebrokers.com
