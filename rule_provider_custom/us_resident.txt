@@ -2,3 +2,4 @@ payload:
   - DOMAIN-KEYWORD,textnow
   - DOMAIN-SUFFIX,lbkrs.com
   - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,lbkr.com
