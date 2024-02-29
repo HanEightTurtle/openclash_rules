@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,arin.net
   - DOMAIN-SUFFIX,bitkan.com
   - DOMAIN-SUFFIX,uscardforum.com
+  - DOMAIN-SUFFIX,hostloc.com
