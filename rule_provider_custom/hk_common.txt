@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,sixmanhua.com
   - DOMAIN-SUFFIX,baozimh.com
   - DOMAIN-SUFFIX,roum2.xyz
+  - DOMAIN-SUFFIX,roum12.xyz
   - DOMAIN-SUFFIX,picacomic.com
   - DOMAIN-SUFFIX,shuzijumin.com
   - DOMAIN-SUFFIX,imitui.com
@@ -12,3 +13,6 @@ payload:
   - DOMAIN-SUFFIX,ikmmh.com
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,18comic.org
+  - DOMAIN-SUFFIX,gufengmh.com
+  - DOMAIN-SUFFIX,gufengmh9.com
+  - DOMAIN-SUFFIX,xiaoqinre.com
