@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,zergpool.com
   - DOMAIN-SUFFIX,hashvault.pro
   - DOMAIN-SUFFIX,nirmata-network.com
+  - DOMAIN-SUFFIX,luckypool.io
