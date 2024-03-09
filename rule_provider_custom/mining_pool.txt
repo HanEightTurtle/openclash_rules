@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,xeggex.com
   - DOMAIN-SUFFIX,zergpool.com
   - DOMAIN-SUFFIX,hashvault.pro
+  - DOMAIN-SUFFIX,nirmata-network.com
