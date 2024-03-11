@@ -1,5 +1,5 @@
 payload:
   - DOMAIN-KEYWORD,textnow
-  - DOMAIN-SUFFIX,lbkrs.com
+  - DOMAIN-SUFFIX,ibkrs.com
   - DOMAIN-SUFFIX,interactivebrokers.com
-  - DOMAIN-SUFFIX,lbkr.com
+  - DOMAIN-SUFFIX,ibkr.com
