@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,luckypool.io
   - DOMAIN-SUFFIX,coolpool.top
   - DOMAIN-SUFFIX,mining4people.com
+  - DOMAIN-SUFFIX,hashrate.to
