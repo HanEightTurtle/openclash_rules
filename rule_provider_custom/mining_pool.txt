@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,nirmata-network.com
   - DOMAIN-SUFFIX,luckypool.io
   - DOMAIN-SUFFIX,coolpool.top
+  - DOMAIN-SUFFIX,mining4people.com
