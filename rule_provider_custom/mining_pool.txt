@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,coolpool.top
   - DOMAIN-SUFFIX,mining4people.com
   - DOMAIN-SUFFIX,hashrate.to
+  - DOMAIN-SUFFIX,qubic.li
