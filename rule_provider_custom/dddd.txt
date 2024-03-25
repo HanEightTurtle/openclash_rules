@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,newhongqi.org
   - DOMAIN-SUFFIX,icij.org
   - DOMAIN-SUFFIX,bannedbook.org
+  - DOMAIN-SUFFIX,cirosantilli.com
