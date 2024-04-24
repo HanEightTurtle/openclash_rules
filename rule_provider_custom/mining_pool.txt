@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,hashrate.to
   - DOMAIN-SUFFIX,qubic.li
   - DOMAIN-SUFFIX,qubic.solutions
+  - DOMAIN-SUFFIX,equihub.pro
