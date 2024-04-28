@@ -2,7 +2,6 @@ payload:
   - DOMAIN-SUFFIX,nicehash.com
   - DOMAIN-SUFFIX,rplant.xyz
   - DOMAIN-SUFFIX,herominers.com
-  - DOMAIN-SUFFIX,xeggex.com
   - DOMAIN-SUFFIX,zergpool.com
   - DOMAIN-SUFFIX,hashvault.pro
   - DOMAIN-SUFFIX,nirmata-network.com
