@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,qubic.solutions
   - DOMAIN-SUFFIX,equihub.pro
   - DOMAIN-SUFFIX,woolypooly.com
+  - DOMAIN-SUFFIX,apool.io
