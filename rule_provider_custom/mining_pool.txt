@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,equihub.pro
   - DOMAIN-SUFFIX,woolypooly.com
   - DOMAIN-SUFFIX,apool.io
+  - DOMAIN-SUFFIX,supportxmr.com
