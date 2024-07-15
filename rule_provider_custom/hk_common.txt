@@ -1,6 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,binance.com
-  - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,6mh67.com
   - DOMAIN-SUFFIX,sixmanhua.com
   - DOMAIN-SUFFIX,baozimh.com
