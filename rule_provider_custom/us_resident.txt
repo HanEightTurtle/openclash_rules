@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,interactivebrokers.co.uk
   - DOMAIN-SUFFIX,ibkr.com
   - DOMAIN-SUFFIX,ibkrs.com
+  - DOMAIN-SUFFIX,mi.com
