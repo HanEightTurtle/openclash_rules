@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,apool.io
   - DOMAIN-SUFFIX,supportxmr.com
   - DOMAIN-SUFFIX,xmrvsbeast.com
+  - DOMAIN-SUFFIX,tw-pool.com
