@@ -2,9 +2,10 @@ payload:
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,panpno.com
   - DOMAIN-SUFFIX,gatedata.org
+  - DOMAIN-SUFFIX,gate.live
+  - DOMAIN-SUFFIX,gateio.services
+  - DOMAIN-SUFFIX,gatedns.net
   - DOMAIN-SUFFIX,zhaqby.com
   - DOMAIN-SUFFIX,zhengrig.com
   - DOMAIN-SUFFIX,csrqoa.com
   - DOMAIN-SUFFIX,bitstreamonline.net
-  - DOMAIN-SUFFIX,panpno.com
-  - DOMAIN-SUFFIX,gate.live
