@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,gatedata.org
   - DOMAIN-SUFFIX,gate.live
   - DOMAIN-SUFFIX,gateio.services
+  - DOMAIN-SUFFIX,gateio.ws
   - DOMAIN-SUFFIX,gatedns.net
   - DOMAIN-SUFFIX,zhaqby.com
   - DOMAIN-SUFFIX,zhengrig.com
