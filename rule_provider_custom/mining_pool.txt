@@ -17,4 +17,4 @@ payload:
   - DOMAIN-SUFFIX,supportxmr.com
   - DOMAIN-SUFFIX,xmrvsbeast.com
   - DOMAIN-SUFFIX,tw-pool.com
-  - IP-CIDR,35.206.217.175/32
+  - DOMAIN-SUFFIX,supportxmr.com
