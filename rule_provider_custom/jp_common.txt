@@ -11,3 +11,4 @@ payload:
 
 # exchanges
   - DOMAIN-SUFFIX,lbank.com
+  - DOMAIN-SUFFIX,lbank.zone
