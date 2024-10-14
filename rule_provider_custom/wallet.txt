@@ -5,4 +5,4 @@ payload:
   - DOMAIN-SUFFIX,hipo.com
   - DOMAIN-SUFFIX,datawallet.com
   - DOMAIN-SUFFIX,supabase.co
-  - DOMAIN-SUFFIX,ouxyi.cash
+  - DOMAIN-SUFFIX,okx-httpdns.com
