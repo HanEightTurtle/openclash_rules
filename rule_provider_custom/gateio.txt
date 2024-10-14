@@ -10,5 +10,3 @@ payload:
   - DOMAIN-SUFFIX,zhengrig.com
   - DOMAIN-SUFFIX,csrqoa.com
   - DOMAIN-SUFFIX,bitstreamonline.net
-  - DOMAIN-SUFFIX,airpackapp.com
-  - DOMAIN-SUFFIX,ouxyi.cash
