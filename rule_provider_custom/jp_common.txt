@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,baozimh.com
+#
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,happymh.com
