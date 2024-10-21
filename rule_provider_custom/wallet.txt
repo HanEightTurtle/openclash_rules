@@ -6,3 +6,5 @@ payload:
   - DOMAIN-SUFFIX,datawallet.com
   - DOMAIN-SUFFIX,supabase.co
   - DOMAIN-SUFFIX,okx-httpdns.com
+  - DOMAIN-SUFFIX,snowtrace.io
+  - DOMAIN-SUFFIX,polygonscan.com
