@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,tw-pool.com
   - DOMAIN-SUFFIX,supportxmr.com
   - DOMAIN-SUFFIX,nanopool.org
+  - DOMAIN-SUFFIX,f2pool.com
