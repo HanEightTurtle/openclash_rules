@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,qubic.li
   - DOMAIN-SUFFIX,qubic.solutions
   - DOMAIN-SUFFIX,equihub.pro
-  - DOMAIN-SUFFIX,woolypooly.com
   - DOMAIN-SUFFIX,apool.io
   - DOMAIN-SUFFIX,supportxmr.com
   - DOMAIN-SUFFIX,xmrvsbeast.com
