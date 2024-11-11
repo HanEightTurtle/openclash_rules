@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,bannedbook.org
   - DOMAIN-SUFFIX,cirosantilli.com
   - DOMAIN-SUFFIX,lain.la
+  - DOMAIN-SUFFIX,secretchina.com
