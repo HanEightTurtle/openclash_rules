@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,gateio.services
   - DOMAIN-SUFFIX,gateio.ws
   - DOMAIN-SUFFIX,gatedns.net
+  - DOMAIN-SUFFIX,gateimg.com
+  - DOMAIN-SUFFIX,gatetrace.com
   - DOMAIN-SUFFIX,zhaqby.com
   - DOMAIN-SUFFIX,zhengrig.com
   - DOMAIN-SUFFIX,csrqoa.com
