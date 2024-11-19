@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,panpno.com
   - DOMAIN-SUFFIX,gatedata.org
   - DOMAIN-SUFFIX,gate.live
+  - DOMAIN-SUFFIX,gateio.live
   - DOMAIN-SUFFIX,gateio.services
   - DOMAIN-SUFFIX,gateio.ws
   - DOMAIN-SUFFIX,gatedns.net
