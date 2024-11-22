@@ -1,0 +1,3 @@
+payload:
+# coins
+  - DOMAIN-SUFFIX,pump.fun
