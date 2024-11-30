@@ -9,7 +9,3 @@ payload:
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,kucoin.com
   - DOMAIN-SUFFIX,kucoin.plus
-
-# exchanges
-  - DOMAIN-SUFFIX,lbank.com
-  - DOMAIN-SUFFIX,lbank.zone
