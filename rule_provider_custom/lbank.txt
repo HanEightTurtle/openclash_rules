@@ -1,3 +1,0 @@
-payload:
-  - DOMAIN-SUFFIX,lbank.com
-  - DOMAIN-SUFFIX,lbank.zone

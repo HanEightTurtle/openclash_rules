@@ -1,0 +1,8 @@
+payload:
+# xeggex
+  - DOMAIN-SUFFIX,xeggex.com
+# lbank
+  - DOMAIN-SUFFIX,lbank.com
+  - DOMAIN-SUFFIX,lbank.zone
+# bybit
+  - DOMAIN-SUFFIX,bybit.com

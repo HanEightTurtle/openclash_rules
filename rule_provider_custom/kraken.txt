@@ -1,7 +1,3 @@
 payload:
-  - DOMAIN-SUFFIX,sumsub.com
-
   - DOMAIN-SUFFIX,kraken.com
   - DOMAIN-SUFFIX,launchdarkly.com
-  
-  - DOMAIN-SUFFIX,bybit.com
