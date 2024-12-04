@@ -2,9 +2,12 @@ payload:
   - DOMAIN-SUFFIX,6mh67.com
   - DOMAIN-SUFFIX,baozimh.com
   - DOMAIN-SUFFIX,sixmanhua.com
+# rouman
   - DOMAIN-SUFFIX,roum2.xyz
   - DOMAIN-SUFFIX,roum12.xyz
   - DOMAIN-SUFFIX,roum10.xyz
+  - DOMAIN-SUFFIX,roum18.xyz
+  - DOMAIN-SUFFIX,roum20.xyz
   - DOMAIN-SUFFIX,picacomic.com
   - DOMAIN-SUFFIX,shuzijumin.com
   - DOMAIN-SUFFIX,imitui.com
