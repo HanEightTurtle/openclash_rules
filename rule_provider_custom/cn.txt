@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,kipro.top
+  - DOMAIN-SUFFIX,kipro.org
