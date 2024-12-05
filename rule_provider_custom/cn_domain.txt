@@ -1,0 +1,3 @@
+payload:
+  - '+.kipro.org'
+  - '+.kipro.top'
