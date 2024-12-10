@@ -6,3 +6,5 @@ payload:
   - DOMAIN-SUFFIX,lbank.zone
 # bybit
   - DOMAIN-SUFFIX,bybit.com
+# bit
+  - DOMAIN-SUFFIX,bit.com
