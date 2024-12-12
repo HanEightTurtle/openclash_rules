@@ -1,7 +1,7 @@
 payload:
 #
-  - DOMAIN,services.googleapis.cn,
-  - DOMAIN,services.googleapis.com,
+  - DOMAIN,services.googleapis.cn
+  - DOMAIN,services.googleapis.com
   - DOMAIN,xn--ngstr-lra8j.com
 #
   - DOMAIN-SUFFIX,anthropic.com
