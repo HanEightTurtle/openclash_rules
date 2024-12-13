@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,cirosantilli.com
   - DOMAIN-SUFFIX,lain.la
   - DOMAIN-SUFFIX,secretchina.com
+  - DOMAIN-SUFFIX,ntdtv.com
