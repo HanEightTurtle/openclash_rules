@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,bitgetpro.com
   - DOMAIN-SUFFIX,bitgetimg.com
   - DOMAIN-SUFFIX,sanqianwenhua.xyz
+  - DOMAIN-SUFFIX,beeeye.xyz
   - DOMAIN-SUFFIX,ada.support
   - DOMAIN-SUFFIX,gurenla.com
   - IP-CIDR,8.212.49.105/32
