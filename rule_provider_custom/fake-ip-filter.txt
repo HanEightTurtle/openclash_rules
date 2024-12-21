@@ -8,6 +8,9 @@ payload:
   *.test
   *.local
   *.home.arpa
+  #googleplayfix
+  +.services.googleapis.cn
+  +.xn--ngstr-lra8j.com
   #放行NTP服务
   time.*.com
   time.*.gov
