@@ -10,3 +10,8 @@ payload:
   - DOMAIN-SUFFIX,bit.com
 # mecacex
   - DOMAIN-SUFFIX,mecacex.com
+# xt
+  - DOMAIN-SUFFIX,xt.com
+# biconomy
+  - DOMAIN-SUFFIX,biconomy.com
+  - DOMAIN-SUFFIX,zdassets.com
