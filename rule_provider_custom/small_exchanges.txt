@@ -15,3 +15,5 @@ payload:
 # biconomy
   - DOMAIN-SUFFIX,biconomy.com
   - DOMAIN-SUFFIX,zdassets.com
+# digifinex
+  - DOMAIN-SUFFIX,digifinex.com
