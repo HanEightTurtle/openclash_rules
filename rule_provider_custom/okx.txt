@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,okx-doh.com
+  - DOMAIN-SUFFIX,okx-httpdns.com
