@@ -1,2 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,binance.info
+  - DOMAIN-SUFFIX,marketwebb.ac
+  - DOMAIN-SUFFIX,saasexch.com
