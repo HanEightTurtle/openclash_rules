@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,okx-doh.com
   - DOMAIN-SUFFIX,okx-httpdns.com
+  - DOMAIN-SUFFIX,ouxyi.cash
