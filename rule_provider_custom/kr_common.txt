@@ -1,3 +1,3 @@
 payload:
 # coins
-  - DOMAIN-SUFFIX,pump.fun
+#  - DOMAIN-SUFFIX,pump.fun
