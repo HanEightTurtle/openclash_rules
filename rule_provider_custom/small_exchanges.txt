@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,bybit.com
 # bit
   - DOMAIN-SUFFIX,bit.com
+  - DOMAIN-SUFFIX,bitexch.app
 # mecacex
   - DOMAIN-SUFFIX,mecacex.com
 # xt
