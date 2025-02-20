@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,sora.com
 # grok3
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.ai
