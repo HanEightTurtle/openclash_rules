@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,lain.la
   - DOMAIN-SUFFIX,secretchina.com
   - DOMAIN-SUFFIX,ntdtv.com
+  - DOMAIN-SUFFIX,zhengjian.org
