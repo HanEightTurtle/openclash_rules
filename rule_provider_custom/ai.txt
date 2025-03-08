@@ -7,3 +7,5 @@ payload:
 # grok3
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.ai
+# 
+  - DOMAIN-SUFFIX,perplexity.ai
