@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,bitget.com
   - DOMAIN-SUFFIX,bitget.fit
   - DOMAIN-SUFFIX,bitget.xyz
+  - DOMAIN-SUFFIX,bitget.club
   - DOMAIN-SUFFIX,bitgetapps.com
   - DOMAIN-SUFFIX,bitgetpro.com
   - DOMAIN-SUFFIX,bitgetimg.com
