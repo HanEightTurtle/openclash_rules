@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,gateio.live
   - DOMAIN-SUFFIX,gateio.services
   - DOMAIN-SUFFIX,gateio.ws
+  - DOMAIN-SUFFIX,gateio.im
   - DOMAIN-SUFFIX,gatedns.net
   - DOMAIN-SUFFIX,gateimg.com
   - DOMAIN-SUFFIX,gatetrace.com
