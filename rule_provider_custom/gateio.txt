@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,gateio.im
   - DOMAIN-SUFFIX,gatedns.net
   - DOMAIN-SUFFIX,gateimg.com
+  - DOMAIN-SUFFIX,gateimage.com
+  - DOMAIN-SUFFIX,gateweb3.cc
   - DOMAIN-SUFFIX,gatetrace.com
   - DOMAIN-SUFFIX,zhaqby.com
   - DOMAIN-SUFFIX,zhengrig.com
