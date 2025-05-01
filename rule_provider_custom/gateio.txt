@@ -17,3 +17,5 @@ payload:
   - DOMAIN-SUFFIX,csrqoa.com
   - DOMAIN-SUFFIX,bitstreamonline.net
   - DOMAIN-SUFFIX,airpackapp.com
+  - DOMAIN-SUFFIX,gposts.net
+  - DOMAIN-SUFFIX,wzchjq.com
