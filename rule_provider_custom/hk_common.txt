@@ -1,4 +1,5 @@
 payload:
+# 6mh
   - DOMAIN-SUFFIX,6mh67.com
   - DOMAIN-SUFFIX,baozimh.com
   - DOMAIN-SUFFIX,sixmanhua.com
@@ -20,3 +21,7 @@ payload:
   - DOMAIN-SUFFIX,gufengmh.com
   - DOMAIN-SUFFIX,gufengmh9.com
   - DOMAIN-SUFFIX,xiaoqinre.com
+# Godamh
+  - DOMAIN-SUFFIX,godamh.com
+  - DOMAIN-SUFFIX,godamanga.online
+  - DOMAIN-SUFFIX,g-mh.online
