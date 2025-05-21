@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,lbank.zone
 # bybit
   - DOMAIN-SUFFIX,bybit.com
+# mexc
+  - DOMAIN-SUFFIX,mexc.com
 # bit
   - DOMAIN-SUFFIX,bit.com
   - DOMAIN-SUFFIX,bitexch.app
