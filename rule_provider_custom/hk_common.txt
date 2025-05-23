@@ -25,3 +25,5 @@ payload:
   - DOMAIN-SUFFIX,godamh.com
   - DOMAIN-SUFFIX,godamanga.online
   - DOMAIN-SUFFIX,g-mh.online
+# 18mh
+  - DOMAIN-SUFFIX,18mh.org
