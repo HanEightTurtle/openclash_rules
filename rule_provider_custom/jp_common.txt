@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,kucoin.com
   - DOMAIN-SUFFIX,kucoin.plus
+  - DOMAIN-SUFFIX,rootdata.com
