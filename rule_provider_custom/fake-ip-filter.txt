@@ -10,6 +10,7 @@
 #googleplayfix
 +.services.googleapis.cn
 +.xn--ngstr-lra8j.com
++.argotunnel.com
 #放行NTP服务
 time.*.com
 time.*.gov
