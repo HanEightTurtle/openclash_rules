@@ -1,4 +1,6 @@
 payload:
+# cloudflare tunnel
+  - DOMAIN-SUFFIX,argotunnel.com
 # 6mh
   - DOMAIN-SUFFIX,6mh67.com
   - DOMAIN-SUFFIX,baozimh.com
