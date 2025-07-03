@@ -3,3 +3,4 @@ payload:
   - '+.ip.sb'
   - 'ip-api.com'
   - 'ipv6-test.com'
+  - '+.argotunnel.com'
