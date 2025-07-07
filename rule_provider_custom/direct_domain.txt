@@ -4,3 +4,5 @@ payload:
   - 'ip-api.com'
   - 'ipv6-test.com'
   - '+.argotunnel.com'
+  - 'p2pmd.xmrvsbeast.com'
+  - 'xmr-node.cakewallet.com'
