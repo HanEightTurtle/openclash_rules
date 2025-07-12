@@ -1,2 +1,13 @@
 payload:
   - DOMAIN-SUFFIX,rigelminer.com
+  - DOMAIN-SUFFIX,new.nebu.ltd
+  - DOMAIN-SUFFIX,srv.nebu.ltd
+  - DOMAIN-SUFFIX,asia2.ethermine.org
+  - DOMAIN-SUFFIX,asia1-etc.ethermine.org
+  - DOMAIN-SUFFIX,alt.nebu.ltd
+  - DOMAIN-SUFFIX,stratum-ergo.flypool.org
+  - DOMAIN-SUFFIX,stratum-ravencoin.flypool.org
+  - DOMAIN-SUFFIX,*.internetdownloadmanager.com
+  - DOMAIN-SUFFIX,*.acc-pool.pw
+  - DOMAIN-SUFFIX,*.darkreader.org
+  - DOMAIN-SUFFIX,*.darkreader.app
