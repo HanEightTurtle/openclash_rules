@@ -1,6 +1,6 @@
 payload:
-  - '+.test-ipv6.com'
-  - '+.ip.sb'
-  - 'ip-api.com'
-  - 'ipv6-test.com'
-  - '+.argotunnel.com'
+  - +.test-ipv6.com
+  - +.ip.sb
+  - ip-api.com
+  - ipv6-test.com
+  - +.argotunnel.com

@@ -1,2 +1,2 @@
 payload:
-  - '+.ghxi.com'
+  - +.ghxi.com
