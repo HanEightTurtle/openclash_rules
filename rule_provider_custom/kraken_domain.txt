@@ -1,0 +1,4 @@
+payload:
+  - +.kraken.com
+  - +.launchdarkly.com
+  - +.segment.com

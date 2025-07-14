@@ -1,0 +1,12 @@
+payload:
+#
+  - +.anthropic.com
+  - +.slack.com
+  - +.happymh.com
+  - +.arin.net
+  - +.bitkan.com
+  - +.uscardforum.com
+  - +.hostloc.com
+  - +.kucoin.com
+  - +.kucoin.plus
+  - +.rootdata.com

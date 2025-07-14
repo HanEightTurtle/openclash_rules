@@ -1,0 +1,11 @@
+payload:
+  - +.chatgate.ai
+  - +.gptgo.ai
+  - +.chatgpt4online.org
+# openai
+  - +.sora.com
+# grok3
+  - +.grok.com
+  - +.x.ai
+# 
+  - +.perplexity.ai

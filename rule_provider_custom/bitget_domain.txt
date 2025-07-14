@@ -1,0 +1,13 @@
+payload:
+  - +.bitget.com
+  - +.bitget.org
+  - +.bitget.fit
+  - +.bitget.xyz
+  - +.bitget.club
+  - +.bitgetapps.com
+  - +.bitgetpro.com
+  - +.bitgetimg.com
+  - +.sanqianwenhua.xyz
+  - +.beeeye.xyz
+  - +.ada.support
+  - +.gurenla.com

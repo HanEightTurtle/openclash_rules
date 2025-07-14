@@ -1,0 +1,26 @@
+payload:
+# xeggex
+  - +.xeggex.com
+# lbank
+  - +.lbank.com
+  - +.lbank.zone
+# bybit
+  - +.bybit.com
+# mexc
+  - +.mexc.com
+  - +.mexcsensors.com
+  - +.mocortech.com
+# bit
+  - +.bit.com
+  - +.bitexch.app
+# mecacex
+  - +.mecacex.com
+# xt
+  - +.xt.com
+# biconomy
+  - +.biconomy.com
+  - +.zdassets.com
+# digifinex
+  - +.digifinex.com
+# backpack
+  - +.backpack.exchange

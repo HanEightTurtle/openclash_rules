@@ -1,0 +1,6 @@
+payload:
+# kyc
+  - +.sumsub.com
+
+  - +.baozimh.com
+  - +.tradingview.com

@@ -1,0 +1,8 @@
+payload:
+  - +.okx-doh.com
+  - +.okx-httpdns.com
+  - +.ouxyi.cash
+  - +.okx.cab
+  - +.okex.com
+  - +.oklink.com
+  - +.okx.com

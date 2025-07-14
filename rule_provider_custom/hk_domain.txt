@@ -1,0 +1,31 @@
+payload:
+# cloudflare tunnel
+  - +.argotunnel.com
+# 6mh
+  - +.6mh67.com
+  - +.baozimh.com
+  - +.sixmanhua.com
+# rouman
+  - +.roum2.xyz
+  - +.roum12.xyz
+  - +.roum10.xyz
+  - +.roum18.xyz
+  - +.roum20.xyz
+  - +.picacomic.com
+  - +.shuzijumin.com
+  - +.imitui.com
+  - +.didamanhua.com
+  - +.manhuadb.com
+  - +.bakamh.com
+  - +.ikmmh.com
+  - +.18comic.vip
+  - +.18comic.org
+  - +.gufengmh.com
+  - +.gufengmh9.com
+  - +.xiaoqinre.com
+# Godamh
+  - +.godamh.com
+  - +.godamanga.online
+  - +.g-mh.online
+# 18mh
+  - +.18mh.org

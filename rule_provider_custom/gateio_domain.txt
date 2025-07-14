@@ -1,0 +1,22 @@
+payload:
+  - +.gate.io
+  - +.panpno.com
+  - +.gatedata.org
+  - +.gate.live
+  - +.gate.com
+  - +.gateio.live
+  - +.gateio.services
+  - +.gateio.ws
+  - +.gateio.im
+  - +.gatedns.net
+  - +.gateimg.com
+  - +.gateimage.com
+  - +.gateweb3.cc
+  - +.gatetrace.com
+  - +.zhaqby.com
+  - +.zhengrig.com
+  - +.csrqoa.com
+  - +.bitstreamonline.net
+  - +.airpackapp.com
+  - +.gposts.net
+  - +.wzchjq.com

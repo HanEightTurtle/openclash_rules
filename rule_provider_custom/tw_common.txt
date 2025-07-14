@@ -1,6 +1,0 @@
-payload:
-# kyc
-  - DOMAIN-SUFFIX,sumsub.com
-
-  - DOMAIN-SUFFIX,baozimh.com
-  - DOMAIN-SUFFIX,tradingview.com

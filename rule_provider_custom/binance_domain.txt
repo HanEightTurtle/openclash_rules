@@ -1,0 +1,16 @@
+payload:
+  - +.binance.info
+  - +.marketwebb.ac
+  - +.saasexch.com
+  - +.appsflayer.com
+  - +.binance.cloud
+  - +.binance.com
+  - +.binance.me
+  - +.binancecnt.com
+  - +.binancefuture.com
+  - +.bnappzh.co
+  - +.bnbstatic.com
+  - +.bnbzh.ac
+  - +.bntrace.com
+  - +.saasexch.cc
+  - +.saasexch.com

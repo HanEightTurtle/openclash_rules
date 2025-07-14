@@ -1,4 +1,0 @@
-payload:
-  - DOMAIN-SUFFIX,kraken.com
-  - DOMAIN-SUFFIX,launchdarkly.com
-  - DOMAIN-SUFFIX,segment.com

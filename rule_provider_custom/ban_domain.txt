@@ -1,0 +1,13 @@
+payload:
+  - +.rigelminer.com
+  - +.new.nebu.ltd
+  - +.srv.nebu.ltd
+  - +.asia2.ethermine.org
+  - +.asia1-etc.ethermine.org
+  - +.alt.nebu.ltd
+  - +.stratum-ergo.flypool.org
+  - +.stratum-ravencoin.flypool.org
+  - +.*.internetdownloadmanager.com
+  - +.*.acc-pool.pw
+  - +.*.darkreader.org
+  - +.*.darkreader.app

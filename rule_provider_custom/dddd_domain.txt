@@ -1,0 +1,16 @@
+payload:
+  - +.epochtimes.com
+  - +.pincong.rocks
+  - +.professorming.net
+  - +.rfa.org
+  - +.nfscdict.com
+  - +.gnews.org
+  - +.blogspot.com
+  - +.newhongqi.org
+  - +.icij.org
+  - +.bannedbook.org
+  - +.cirosantilli.com
+  - +.lain.la
+  - +.secretchina.com
+  - +.ntdtv.com
+  - +.zhengjian.org
