@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-KEYWORD,textnow
+  - +.textnow.com
   - +.interactivebrokers.com
   - +.interactivebrokers.co.uk
   - +.ibkr.com
