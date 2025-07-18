@@ -10,3 +10,5 @@ payload:
   - +.kucoin.com
   - +.kucoin.plus
   - +.rootdata.com
+  #
+  - +.recochoku.jp
