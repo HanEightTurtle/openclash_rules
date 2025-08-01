@@ -2,3 +2,4 @@ payload:
   - +.kraken.com
   - +.launchdarkly.com
   - +.segment.com
+  - +.braze.com
