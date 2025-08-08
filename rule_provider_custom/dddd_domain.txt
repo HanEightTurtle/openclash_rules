@@ -14,3 +14,4 @@ payload:
   - +.secretchina.com
   - +.ntdtv.com
   - +.zhengjian.org
+  - +.ueuo.com
