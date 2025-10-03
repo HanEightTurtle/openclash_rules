@@ -12,3 +12,5 @@ payload:
   - +.rootdata.com
   #
   - +.recochoku.jp
+  #
+  - +.helius.dev
