@@ -23,9 +23,5 @@ payload:
   - +.gufengmh.com
   - +.gufengmh9.com
   - +.xiaoqinre.com
-# Godamh
-  - +.godamh.com
-  - +.godamanga.online
-  - +.g-mh.online
 # 18mh
   - +.18mh.org
