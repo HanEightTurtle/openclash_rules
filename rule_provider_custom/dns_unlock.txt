@@ -1,6 +1,1 @@
 payload:
-  - +.ghxi.com
-# Godamh
-  - +.godamh.com
-  - +.godamanga.online
-  - +.g-mh.online
