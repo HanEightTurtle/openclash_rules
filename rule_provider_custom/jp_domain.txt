@@ -14,3 +14,7 @@ payload:
   - +.recochoku.jp
   #
   - +.helius.dev
+  # Godamh
+  - +.godamh.com
+  - +.godamanga.online
+  - +.g-mh.online
