@@ -4,6 +4,7 @@ payload:
   - +.bitget.fit
   - +.bitget.xyz
   - +.bitget.club
+  - +.bitgetapp.com
   - +.bitgetapps.com
   - +.bitgetpro.com
   - +.bitgetimg.com
@@ -14,3 +15,4 @@ payload:
   - +.bgstatic.com
   - +.zysh.xyz
   - +.ddjxad.top
+  - +.abcdstable.com
