@@ -11,3 +11,5 @@ payload:
   - +.beeeye.xyz
   - +.ada.support
   - +.gurenla.com
+  - +.bgstatic.com
+  - +.zysh.xyz

@@ -7,3 +7,5 @@ payload:
   - +.okx-httpdns.com
   - +.ouxyi.cash
   - +.oklink.com
+  - +.zkscan.io
+  - +.zksync.io
