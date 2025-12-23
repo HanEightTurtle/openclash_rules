@@ -13,3 +13,4 @@ payload:
   - +.gurenla.com
   - +.bgstatic.com
   - +.zysh.xyz
+  - +.ddjxad.top
