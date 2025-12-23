@@ -7,5 +7,7 @@ payload:
   - +.okx-httpdns.com
   - +.ouxyi.cash
   - +.oklink.com
+  - +.chouyi.pink
+  - +.j7tracker.com
   - +.zkscan.io
   - +.zksync.io
