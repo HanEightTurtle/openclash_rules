@@ -20,3 +20,7 @@ payload:
   - +.airpackapp.com
   - +.gposts.net
   - +.wzchjq.com
+  - +.staticimgs.com
+  - apipro.w3-api.com
+  - spot-webws.wsbridge.com
+  - spot-webws.wsbridge.com
