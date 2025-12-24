@@ -23,4 +23,4 @@ payload:
   - +.staticimgs.com
   - apipro.w3-api.com
   - spot-webws.wsbridge.com
-  - spot-webws.wsbridge.com
+  - fx-webws.wsbridge.com
