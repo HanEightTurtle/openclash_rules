@@ -1,4 +1,8 @@
 payload:
-    - +.p2pify
+    - +.p2pify.com
     - +.helius-rpc.com
     - +.moralis.io
+    - +.rpc.thirdweb.com
+    - +.fastblocks.io
+    - +.iotex.io
+    - +.iotex.one
