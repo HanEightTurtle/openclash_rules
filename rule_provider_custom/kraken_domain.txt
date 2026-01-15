@@ -3,3 +3,8 @@ payload:
   - +.launchdarkly.com
   - +.segment.com
   - +.braze.com
+  - kraken.zendesk.com
+  - +.assetsconfigcdn.org
+  - +.featureassets.org
+  - +.cookielaw.org
+  - +.zdassets.com
