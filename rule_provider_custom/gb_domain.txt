@@ -1,3 +1,4 @@
 payload:
   - +.giffgaff.com
   - gmcc234.pub.3gppnetwork.org
+  - card.metamask.io
