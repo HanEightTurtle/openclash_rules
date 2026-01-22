@@ -1,4 +1,7 @@
 payload:
+# custom
+  - engsbk.mahjongsoul.com
+  - engs.mahjongsoul.com.cdn.cloudflare.net
 # Nintendo
   - +.100classicbooks.com
   - +.ac-pocketcamp.com
