@@ -1,0 +1,5 @@
+payload:
+# backpack
+  - +.backpack.exchange
+  - staking.xnfts.dev
+  - price-indexer.workers.madlads.com
