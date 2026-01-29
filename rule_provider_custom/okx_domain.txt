@@ -11,3 +11,5 @@ payload:
   - +.j7tracker.com
   - +.zkscan.io
   - +.zksync.io
+  - +.okx.com.cdn.cloudflare.net
+  - +.cnouyi.pizza
