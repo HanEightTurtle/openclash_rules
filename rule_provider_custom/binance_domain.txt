@@ -15,3 +15,5 @@ payload:
   - +.saasexch.cc
   - +.saasexch.com
   - +.saasexch.info
+  - +.bsappapi.com
+  - +.sintral.me
