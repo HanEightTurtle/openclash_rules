@@ -21,6 +21,10 @@ payload:
   - +.gposts.net
   - +.wzchjq.com
   - +.staticimgs.com
+  - +.bxjddjt.com
+  - +.ldd678.com
+  - +.zudanje.com
+  - +.mbm06.com
   - apipro.w3-api.com
   - spot-webws.wsbridge.com
   - fx-webws.wsbridge.com
