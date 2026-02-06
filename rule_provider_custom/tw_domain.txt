@@ -1,6 +1,7 @@
 payload:
 # kyc
   - +.sumsub.com
-
+  - +.nexusmutual.io
+# other
   - +.baozimh.com
   - +.tradingview.com
