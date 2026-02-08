@@ -15,3 +15,4 @@ payload:
   - +.ntdtv.com
   - +.zhengjian.org
   - +.ueuo.com
+  - xn--vuq87fk7jum5c1xb.com
