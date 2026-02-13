@@ -37,5 +37,4 @@ payload:
   - fapi.asterdex.com
   - sapi.asterdex.com
   - api.binance.com
-  - web3.okx.com
   - +.p2pify.com
