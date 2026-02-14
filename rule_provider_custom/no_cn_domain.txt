@@ -6,3 +6,4 @@ payload:
     - +.fastblocks.io
     - +.iotex.io
     - +.iotex.one
+    - +.coinglass.com
