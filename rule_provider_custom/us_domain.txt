@@ -5,3 +5,4 @@ payload:
   - +.ibkr.com
   - +.ibkrs.com
   - +.mi.com
+  - +.browserleaks.com
