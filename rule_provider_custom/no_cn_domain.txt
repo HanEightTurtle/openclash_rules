@@ -1,2 +1,4 @@
 payload:
     - +.coinglass.com
+    - +.lobehub.com
+    - +.clawhub.ai
