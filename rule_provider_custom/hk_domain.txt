@@ -1,6 +1,8 @@
 payload:
 # cloudflare tunnel
   - +.argotunnel.com
+# zabank
+  - +.za.group
 # 6mh
   - +.6mh67.com
   - +.baozimh.com
