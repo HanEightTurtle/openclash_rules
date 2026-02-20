@@ -1,5 +1,6 @@
 payload:
     # LongBridge
     - +.lbkrs.com
+    - +.longbridgeapp.com
     # dex
     - +.silhouette.exchange
