@@ -1,2 +1,4 @@
 payload:
+    # LongBridge
+    - +.lbkrs.com
     - +.silhouette.exchange
