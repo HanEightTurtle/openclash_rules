@@ -39,4 +39,5 @@ payload:
   - api.binance.com
   - +.p2pify.com
 # 中转api
-  - +.penguinsaichat.dpdns.org
+  - api.penguinsaichat.dpdns.org
+  - jp.code.respyun.com
