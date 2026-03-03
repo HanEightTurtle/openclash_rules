@@ -41,4 +41,4 @@ payload:
 # 中转api
   - api.penguinsaichat.dpdns.org
   - api2.penguinsaichat.dpdns.org
-  - jp.code.respyun.com
+  - *.code.respyun.com
