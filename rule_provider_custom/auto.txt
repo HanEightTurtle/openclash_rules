@@ -41,3 +41,4 @@ payload:
 # 中转api
   - *.penguinsaichat.dpdns.org
   - *.code.respyun.com
+  - ai.love-gwen.top
