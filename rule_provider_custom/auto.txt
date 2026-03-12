@@ -42,3 +42,4 @@ payload:
   - *.penguinsaichat.dpdns.org
   - *.code.respyun.com
   - ai.love-gwen.top
+  - ai.lboverfys-bobo.top
