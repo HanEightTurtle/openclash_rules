@@ -43,3 +43,4 @@ payload:
   - *.code.respyun.com
   - ai.love-gwen.top
   - ai.lboverfys-bobo.top
+  - api.codewithai.store
