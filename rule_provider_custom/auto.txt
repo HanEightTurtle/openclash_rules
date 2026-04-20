@@ -44,3 +44,5 @@ payload:
   - *.love-gwen.top
   - *.lboverfys-bobo.top
   - *.codewithai.store
+  - *.vpsairobot.com
+  - *.ticketpro.cc
