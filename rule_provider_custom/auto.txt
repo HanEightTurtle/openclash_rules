@@ -38,6 +38,8 @@ payload:
   - sapi.asterdex.com
   - api.binance.com
   - +.p2pify.com
+# 官方
+  - *.voyageai.com
 # 中转api
   - *.penguinsaichat.dpdns.org
   - *.code.respyun.com
