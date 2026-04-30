@@ -4,4 +4,3 @@ payload:
   - +.chatgpt4online.org
 # openai
   - +.sora.com
-  - +.antigravity.google
