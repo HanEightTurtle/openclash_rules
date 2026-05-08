@@ -1,3 +1,4 @@
 payload:
   - +.dextools.io
   - +.bscscan.com
+  - +.basescan.org
