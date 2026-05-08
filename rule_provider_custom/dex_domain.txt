@@ -1,2 +1,3 @@
 payload:
   - +.dextools.io
+  - +.bscscan.com
