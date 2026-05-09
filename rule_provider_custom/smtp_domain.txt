@@ -1,12 +1,25 @@
 payload:
   - smtp.gmail.com
+  - imap.gmail.com
   - smtp.office365.com
+  - outlook.office365.com
   - smtp-mail.outlook.com
+  - imap-mail.outlook.com
   - smtp.mail.yahoo.com
+  - imap.mail.yahoo.com
   - smtp.mail.me.com
+  - imap.mail.me.com
   - smtp.zoho.com
+  - imap.zoho.com
   - smtp.zoho.eu
+  - imap.zoho.eu
   - smtp.yandex.com
+  - imap.yandex.com
   - smtp.aol.com
+  - imap.aol.com
   - mail.gmx.com
+  - imap.gmx.com
+  - smtp.mail.com
+  - imap.mail.com
   - smtp.fastmail.com
+  - imap.fastmail.com
