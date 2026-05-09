@@ -1,4 +1,5 @@
 payload:
   - +.dextools.io
+  - +.coinglass.com
   - +.bscscan.com
   - +.basescan.org
