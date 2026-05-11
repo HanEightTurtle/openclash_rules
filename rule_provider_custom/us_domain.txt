@@ -1,8 +1,4 @@
 payload:
   - +.textnow.com
-  - +.interactivebrokers.com
-  - +.interactivebrokers.co.uk
-  - +.ibkr.com
-  - +.ibkrs.com
   - +.mi.com
   - +.browserleaks.com
