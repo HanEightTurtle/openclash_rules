@@ -21,7 +21,7 @@ payload:
   - +.nanopool.org
   - +.f2pool.com
 # rpc
-  - +.core.chainstack.com
+  - +.chainstack.com
   - +.infura.io
   - +.g.alchemy.com
   - +.mainnet.iotex.io
