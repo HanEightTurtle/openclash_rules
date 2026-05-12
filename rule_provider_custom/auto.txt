@@ -38,6 +38,7 @@ payload:
   - sapi.asterdex.com
   - api.binance.com
   - +.p2pify.com
+  - +.yuzapi.fun
 # 官方
   - *.voyageai.com
 # 中转api
