@@ -1,4 +1,5 @@
 payload:
+  - +.oplist.org
   - +.lobehub.com
   - +.clawhub.ai
   - +.linux.do
