@@ -3,3 +3,9 @@ payload:
   - +.lobehub.com
   - +.clawhub.ai
   - +.linux.do
+# crypto
+  - +.coinglass.com
+  - +.cryptoquant.com
+  - +.finnhub.io
+  - +.tiingo.com
+  - +.twelvedata.com
