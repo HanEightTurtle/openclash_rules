@@ -9,3 +9,5 @@ payload:
   - +.finnhub.io
   - +.tiingo.com
   - +.twelvedata.com
+# steam
+  - +.windfiles.com
