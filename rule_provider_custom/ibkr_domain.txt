@@ -1,5 +1,7 @@
 payload:
   - +.interactivebrokers.com
+  - +.interactivebrokers.com.sg
+  - +.interactivebrokers.com.jp
   - +.interactivebrokers.co.uk
   - +.ibkr.com
   - +.ibkrs.com
