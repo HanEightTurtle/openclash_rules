@@ -3,6 +3,7 @@ payload:
   - +.lobehub.com
   - +.clawhub.ai
   - +.linux.do
+  - +.lsposed.org
 # crypto
   - +.coinglass.com
   - +.cryptoquant.com
