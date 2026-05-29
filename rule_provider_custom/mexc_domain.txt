@@ -1,0 +1,5 @@
+payload:
+# mexc
+  - +.mexc.com
+  - +.mexcsensors.com
+  - +.mocortech.com
