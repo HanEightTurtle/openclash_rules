@@ -27,3 +27,7 @@ payload:
   - +.xiaoqinre.com
 # 18mh
   - +.18mh.org
+# Godamh
+  - +.godamh.com
+  - +.godamanga.online
+  - +.g-mh.online
