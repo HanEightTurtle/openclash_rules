@@ -4,3 +4,4 @@ payload:
     - +.longbridgeapp.com
     # dex
     - +.silhouette.exchange
+    - +.yuzapi.fun
